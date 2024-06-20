@@ -1,5 +1,4 @@
-This project delivers a comprehensive analysis demonstrating the significant impact of road accidents on the UK’s GDP, covering direct, indirect, and broader economic effects. It offers visualizations and key insights through:
-
+This project delivers a comprehensive analysis demonstrating the significant impact of road accidents on the UK’s GDP, covering direct, indirect, and broader economic effects. It also offers visualizations and key insights from the analysis. Additionally, it:
 1. Highlighted the essential role of vehicular transportation in the UK, its importance, and the associated significant costs.
 2. Examined the total number of vehicles involved in traffic incidents in 2021 and 2022.
 3. Assessed the total number of road accident casualties in 2021 and 2022.
